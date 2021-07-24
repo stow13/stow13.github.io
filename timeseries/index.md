@@ -1,5 +1,6 @@
 ---
 title: Time Series
+logo: /WM.jpg
 description: Time Series Plots
 ---
 
