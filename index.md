@@ -3,7 +3,7 @@ title: Trey Stowe
 description: My Personal Website
 ---
 
-These are time series plots:
+Time series projects:
 
 -[Time Series Plots](/timeseries/index.md)
 
