@@ -1,6 +1,6 @@
 ---
 title: Trey Stowe
-logo:/griffin.jpeg
+logo: /griffin.jpeg
 description: My Personal Website
 ---
 
