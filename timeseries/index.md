@@ -11,4 +11,4 @@ This is a time series plot
 
 
 
-[Home](stowe13.github.io)
+[Home](https://stowe13.github.io/)
