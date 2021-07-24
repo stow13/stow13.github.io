@@ -7,8 +7,8 @@ This is a time series plot
 - [Time Series (html)](M3.GitHubTimeSeriesNotebook.html)
 - [Time Series (ipynb)](M3.GitHubTimeSeriesNotebook.ipynb)
 
+[Repository](https://github.com/stow13/reimagined-octo-pancake)
 
 
 
-
-[Home](\https://stowe13.github.io/)
+[Home](https://stow13.github.io/)
