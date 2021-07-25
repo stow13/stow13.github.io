@@ -3,10 +3,11 @@ title: Plots
 description: General Plots
 ---
 
-Plot Aesthetics
+Time Series Plot Analysis Aesthetics
 - [Time Series with Analysis (html)](M3.GitHubTimeSeriesNotebook.html)
 - [Time Series with Analysis (ipynb)](M3.GitHubTimeSeriesNotebook.ipynb)
 
+Plot Aesthetics
 - [Miscelaneous Charts (html)](M3.GitHubTimeSeriesNotebook.html)
 - [Miscelaneous Charts (ipynb)](M3.GitHubTimeSeriesNotebook.ipynb)
 
