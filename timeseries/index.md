@@ -9,7 +9,7 @@ Time Series Plots
 
 Time Series Decomposition
 
-[Portfolio Repository](https://github.com/stow13/reimagined-octo-pancake)
+[Portfolio Repository](https://github.com/stow13/Porfolio-Repository)
 
 
 
