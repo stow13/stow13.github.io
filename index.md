@@ -18,4 +18,4 @@ Time Series Projects
 
 Miscellaneous
 
--[![Ghosts!](https://img.www.youtube.com/vi/OjPWU_DM-ak/0.jpg)](https://www.youtube.com/watch?v=OjPWU_DM-ak)
+-[![Ghosts](https://img.www.youtube.com/vi/OjPWU_DM-ak/0.jpg)](https://www.youtube.com/watch?v=OjPWU_DM-ak)
