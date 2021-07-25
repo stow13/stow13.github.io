@@ -10,3 +10,8 @@ Time Series Projects:
 Plot Aesthetic Projects:
 
 -[Plots](/plots/index.md)
+
+
+Miscellaneous:
+
+-[![Ghosts!](https://img.www.youtube.com/watch?v=OjPWU_DM-ak.jpg)](https://www.youtube.com/watch?v=OjPWU_DM-ak)
