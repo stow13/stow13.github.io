@@ -8,6 +8,8 @@ Time Series Plots
 - [Time Series (ipynb)](M3.GitHubTimeSeriesNotebook.ipynb)
 
 Time Series Decomposition
+- [Time Series Decomposition (html)](M3.GitHubTimeSeriesNotebook.html)
+- [Time Series Decomposition (ipynb)](M3.GitHubTimeSeriesNotebook.ipynb)
 
 [Portfolio Repository](https://github.com/stow13/Porfolio-Repository)
 
