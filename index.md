@@ -5,6 +5,8 @@ description: My Personal Website
 
 ![William & Mary](/WM.jpg)
 
+[Portfolio Repository](https://github.com/stow13/Porfolio-Repository)
+
 
 Plot Aesthetic Projects
 
@@ -14,9 +16,6 @@ Plot Aesthetic Projects
 Time Series Projects
 
 -[Time Series](/timeseries/index.md)
-
-
-[Portfolio Repository](https://github.com/stow13/Porfolio-Repository)
 
 
 Miscellaneous
