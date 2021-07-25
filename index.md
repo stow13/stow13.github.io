@@ -3,6 +3,8 @@ title: Trey Stowe
 description: My Personal Website
 ---
 
+![William & Mary](/WM.jpg)
+
 Time Series Projects:
 
 -[Time Series](/timeseries/index.md)
