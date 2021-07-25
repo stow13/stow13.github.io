@@ -5,13 +5,15 @@ description: My Personal Website
 
 ![William & Mary](/WM.jpg)
 
-Time Series Projects:
-
--[Time Series](/timeseries/index.md)
 
 Plot Aesthetic Projects:
 
 -[Plots](/plots/index.md)
+
+
+Time Series Projects:
+
+-[Time Series](/timeseries/index.md)
 
 
 Miscellaneous:
