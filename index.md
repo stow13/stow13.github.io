@@ -8,14 +8,14 @@ description: My Personal Website
 [Portfolio Repository](https://github.com/stow13/Porfolio-Repository)
 
 
-Plot Aesthetic Projects
-
--[Plots](/plots/index.md)
-
-
 Time Series Projects
 
 -[Time Series](/timeseries/index.md)
+
+
+Plot Aesthetic Projects
+
+-[Plots](/plots/index.md)
 
 
 Miscellaneous
